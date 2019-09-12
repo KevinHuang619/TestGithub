@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TestGithub/static/css/main.2cce8147.chunk.css",
-    "main.js": "/TestGithub/static/js/main.18f0e0aa.chunk.js",
-    "main.js.map": "/TestGithub/static/js/main.18f0e0aa.chunk.js.map",
+    "main.css": "/TestGithub/static/css/main.92374c49.chunk.css",
+    "main.js": "/TestGithub/static/js/main.495c58e2.chunk.js",
+    "main.js.map": "/TestGithub/static/js/main.495c58e2.chunk.js.map",
     "runtime~main.js": "/TestGithub/static/js/runtime~main.de1f4236.js",
     "runtime~main.js.map": "/TestGithub/static/js/runtime~main.de1f4236.js.map",
-    "static/js/2.380747b5.chunk.js": "/TestGithub/static/js/2.380747b5.chunk.js",
-    "static/js/2.380747b5.chunk.js.map": "/TestGithub/static/js/2.380747b5.chunk.js.map",
+    "static/js/2.8b8bf97b.chunk.js": "/TestGithub/static/js/2.8b8bf97b.chunk.js",
+    "static/js/2.8b8bf97b.chunk.js.map": "/TestGithub/static/js/2.8b8bf97b.chunk.js.map",
     "index.html": "/TestGithub/index.html",
-    "precache-manifest.ea77887b035b17ee5b90f97490225a14.js": "/TestGithub/precache-manifest.ea77887b035b17ee5b90f97490225a14.js",
+    "precache-manifest.0a658708931ec246c566fd1484aa83cb.js": "/TestGithub/precache-manifest.0a658708931ec246c566fd1484aa83cb.js",
     "service-worker.js": "/TestGithub/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/TestGithub/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/TestGithub/static/media/logo.5d5d9eef.svg"
+    "static/css/main.92374c49.chunk.css.map": "/TestGithub/static/css/main.92374c49.chunk.css.map",
+    "static/media/nucleo-icons.css": "/TestGithub/static/media/nucleo.f0b489a5.woff"
   }
 }
