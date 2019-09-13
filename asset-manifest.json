@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TestGithub/static/css/main.92374c49.chunk.css",
-    "main.js": "/TestGithub/static/js/main.bee862cf.chunk.js",
-    "main.js.map": "/TestGithub/static/js/main.bee862cf.chunk.js.map",
+    "main.js": "/TestGithub/static/js/main.e6b0ad9d.chunk.js",
+    "main.js.map": "/TestGithub/static/js/main.e6b0ad9d.chunk.js.map",
     "runtime~main.js": "/TestGithub/static/js/runtime~main.de1f4236.js",
     "runtime~main.js.map": "/TestGithub/static/js/runtime~main.de1f4236.js.map",
     "static/js/2.12574b6d.chunk.js": "/TestGithub/static/js/2.12574b6d.chunk.js",
     "static/js/2.12574b6d.chunk.js.map": "/TestGithub/static/js/2.12574b6d.chunk.js.map",
     "index.html": "/TestGithub/index.html",
-    "precache-manifest.bef7a678f7ebea8a1cdecc7de47e45fc.js": "/TestGithub/precache-manifest.bef7a678f7ebea8a1cdecc7de47e45fc.js",
+    "precache-manifest.bec05f86da4b06211653ea84f3890c51.js": "/TestGithub/precache-manifest.bec05f86da4b06211653ea84f3890c51.js",
     "service-worker.js": "/TestGithub/service-worker.js",
     "static/css/main.92374c49.chunk.css.map": "/TestGithub/static/css/main.92374c49.chunk.css.map",
     "static/media/nucleo-icons.css": "/TestGithub/static/media/nucleo.f0b489a5.woff"
