@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The repo [GitHub Pages](https://wac-kevinboy.github.io/TestGithub) is available.
+
+## Quick Preview
+<img src='preview.png'/>
+
+## React-Redux Cycle
+<img src='Redux_Pics.png'/>
+
 ## Available Scripts
 
 In the project directory, you can run:
